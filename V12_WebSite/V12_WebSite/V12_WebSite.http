@@ -1,6 +1,0 @@
-@V12_WebSite_HostAddress = http://localhost:5148
-
-GET {{V12_WebSite_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
